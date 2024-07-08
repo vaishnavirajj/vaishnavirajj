@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Raj</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer and TechEnthusiast from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavirajj&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavirajj" /> </p>
 
