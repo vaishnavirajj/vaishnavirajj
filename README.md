@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vaishnaviraj02" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnaviraj02?logo=twitter&style=for-the-badge" alt="vaishnaviraj02" /></a> </p>
 
-- 🌱 I’m currently learning **DSA & DevOps**
+- 🌱 I’m currently learning **DSA & Cloud Computing**
 
 - 💬 Ask me about **Frontend Stuffs**
 
