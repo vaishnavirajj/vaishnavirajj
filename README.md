@@ -1,29 +1,39 @@
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
+
 <h1 align="center">Hi 👋, I'm Vaishnavi Raj</h1>
-<h3 align="center">A passionate developer and TechEnthusiast from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavirajj&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavirajj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavirajj" alt="vaishnavirajj" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vaishnaviraj02" target="blank"><img src="https://img.shields.io/twitter/follow/vaishnaviraj02?logo=twitter&style=for-the-badge" alt="vaishnaviraj02" /></a> </p>
-
-- 🌱 I’m currently learning **DSA & Cloud Computing**
-
-- 💬 Ask me about **Frontend Stuffs**
-
-- ⚡ Fun fact **I think Am Protagonist**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vaishnaviraj02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnaviraj02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnaviraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnaviraj_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/vaishnavirajj">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+Developer;AI+%7C+GenAI+%7C+RAG+Enthusiast;Full+Stack+Developer;Cloud+%7C+DevOps+Learner;Building+real-world+software+solutions" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vaishnavirajj&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavirajj&show_icons=true&locale=en&layout=compact" alt="vaishnavirajj" /></p>
+<p align="center">
+  <a href="https://github.com/vaishnavirajj">
+    <img src="https://img.shields.io/github/followers/vaishnavirajj?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://leetcode.com/vaishnaviraj_/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+  </a>
+  <a href="https://twitter.com/vaishnaviraj02">
+    <img src="https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x" alt="X profile" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishnavirajj&show_icons=true&locale=en" alt="vaishnavirajj" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavirajj&" alt="vaishnavirajj" /></p>
+## 🚀 About Me
+
+```text
+💻 Software Developer focused on Java & Spring Boot
+🤖 Exploring AI, Generative AI and Retrieval-Augmented Generation
+🌐 Building Full-Stack applications with modern web technologies
+☁️ Learning Cloud Computing, DevOps and scalable system design
+🧠 Practicing Data Structures & Algorithms
+⚡ Love turning ideas into working products
